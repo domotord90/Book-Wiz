@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap");
+
+.header-wrapper {
+  position: fixed;
+  width: 100%;
+}
+
+.info {
+  text-align: center;
+  font-size: 26px;
+  font-family: "Baloo Bhai", cursive;
+  background: #90ccf4;
+  margin: 0;
+}
+
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  margin-top: 400px;
+  font-size: 70px;
+}
+
+@media screen and (min-width: 690px) {
+  .info {
+    display: none;
+  }
+  .header-wrapper {
+    display: flex;
+    background: #ececec;
+    justify-content: center;
+    align-items: center;
+  }
+}
