@@ -7,7 +7,7 @@
 
 .info {
   text-align: center;
-  font-size: 26px;
+  font-size: 1.625rem;
   font-family: "Baloo Bhai", cursive;
   background: #90ccf4;
   margin: 0;
@@ -21,8 +21,8 @@
 .loading {
   display: flex;
   justify-content: center;
-  margin-top: 400px;
-  font-size: 70px;
+  margin-top: 25rem;
+  font-size: 4.375rem;
 }
 
 @media screen and (min-width: 690px) {

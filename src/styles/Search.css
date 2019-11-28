@@ -6,13 +6,13 @@
 }
 
 .button-search {
-  font-size: 26px;
+  font-size: 1.625rem;
   font-family: "Baloo Bhai", cursive;
   background: #f78888;
 }
 
 .input-search {
-  font-size: 26px;
+  font-size: 1.625rem;
   flex-grow: 100;
   background: #f78888;
   font-family: "Baloo Bhai", cursive;
@@ -21,14 +21,14 @@
 
 @media screen and (min-width: 690px) {
   .input-search {
-    font-size: 26px;
+    font-size: 1.625rem;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     margin-right: 0;
     border: none;
   }
   .button-search {
-    font-size: 20px;
+    font-size: 1.25rem;
     border: none;
     margin: 0;
     background: purple;
