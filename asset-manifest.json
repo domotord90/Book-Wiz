@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Book-Wiz/static/css/main.d704009e.chunk.css",
+    "main.css": "/Book-Wiz/static/css/main.27b30fb9.chunk.css",
     "main.js": "/Book-Wiz/static/js/main.7da9c711.chunk.js",
     "main.js.map": "/Book-Wiz/static/js/main.7da9c711.chunk.js.map",
     "runtime-main.js": "/Book-Wiz/static/js/runtime-main.5ef5f87c.js",
@@ -8,15 +8,15 @@
     "static/js/2.721440a5.chunk.js": "/Book-Wiz/static/js/2.721440a5.chunk.js",
     "static/js/2.721440a5.chunk.js.map": "/Book-Wiz/static/js/2.721440a5.chunk.js.map",
     "index.html": "/Book-Wiz/index.html",
-    "precache-manifest.c5b286d479139f40f3ee249a6c356bff.js": "/Book-Wiz/precache-manifest.c5b286d479139f40f3ee249a6c356bff.js",
+    "precache-manifest.1a57753c934ad89660f882363fecc94e.js": "/Book-Wiz/precache-manifest.1a57753c934ad89660f882363fecc94e.js",
     "service-worker.js": "/Book-Wiz/service-worker.js",
-    "static/css/main.d704009e.chunk.css.map": "/Book-Wiz/static/css/main.d704009e.chunk.css.map",
+    "static/css/main.27b30fb9.chunk.css.map": "/Book-Wiz/static/css/main.27b30fb9.chunk.css.map",
     "static/media/placeholder.jpg": "/Book-Wiz/static/media/placeholder.e9eb705a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ef5f87c.js",
     "static/js/2.721440a5.chunk.js",
-    "static/css/main.d704009e.chunk.css",
+    "static/css/main.27b30fb9.chunk.css",
     "static/js/main.7da9c711.chunk.js"
   ]
 }
